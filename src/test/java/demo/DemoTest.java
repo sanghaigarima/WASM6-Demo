@@ -7,7 +7,7 @@ public class DemoTest {
 	@Test
 	public  void demo() {
 		
-		System.out.println(" This is is a WASM6 project");
+		System.out.println(" This is is a WASM-6 project");
 
 	}
 
