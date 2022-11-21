@@ -6,7 +6,13 @@ public class SampleTest {
 	
 	@Test
 	public void test() {
-		System.out.println("demo 1");
+		System.out.println("demo 15");
+		System.out.println("Hi this is maven project user 1");
+	
+	
+	
+	
+	
 	}
 
 }
