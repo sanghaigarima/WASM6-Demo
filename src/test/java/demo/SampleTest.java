@@ -8,6 +8,7 @@ public class SampleTest {
 	public void test() {
 		System.out.println("demo 15");
 		System.out.println("Hi this is maven project user 1");
+		System.out.println("Hi this is maven project user 2");
 	
 	
 	
